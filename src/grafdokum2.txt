@@ -1,0 +1,29 @@
+9
+15
+S 50
+A 50
+B 50
+C 50
+D 50
+E 50
+F 50
+G 50
+T 50
+S A 6
+S B 1
+S C 10
+A D 4
+A B 2
+A E 1
+B E 20
+B C 2
+C F 5
+D E 2
+D G 5
+E F 6
+E G 10
+G T 12
+F T 4
+S
+T
+
